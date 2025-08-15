@@ -18,10 +18,6 @@ Create or Access an Account – Sign up or log in using Firebase Authentication.
 Explore PDF Resources – View past question papers categorized by subject and year.
 
 
-Switch Appearance Mode – Choose between light and dark themes anytime.
-
-Unlock Premium Materials – Make quick payments via Razorpay.
-
 Edit Personal Details – Update your profile information (name, academic year, etc.) directly in Firestore.
 
 🛠️ Technologies & Packages
